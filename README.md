@@ -104,29 +104,14 @@ Every person needs a diet that suits their body and lifestyle, and this personal
 ##  Screenshots
  **Home page**
  
-![page1](https://user-images.githubusercontent.com/107451256/188327590-c50612f3-807d-472d-aff7-5ae1b958309e.PNG)
+![page1] https://drive.google.com/file/d/1PNlaxJyFl5PclHCuvrj262KGGGvT5Mpw/view
+![page2] https://drive.google.com/file/d/1PM99ea5skOSXl1ewlSB6XD9REZE3PxW3/view
+![page3] https://drive.google.com/file/d/1PPwxpoqSxRtUaRnRziMp7Im4_rN_9nFg/view           
 
-![page2](https://user-images.githubusercontent.com/107451256/188328888-44b4edec-8d2d-4c90-aa8e-e3cbd713af5d.PNG)
+![page4] https://drive.google.com/file/d/1PPNrtIcl16dGKGs4GR857rmyxxmkUEZj/view
 
-![page3](https://user-images.githubusercontent.com/107451256/188327759-2279d960-8e46-4373-be3a-56786fb48026.PNG)
+![page5] https://drive.google.com/file/d/1PR3J5C6vJqyG3Klj0gey11roMN133Xsg/view
 
-![page4](https://user-images.githubusercontent.com/107451256/188327783-d3c205fa-b8c2-477f-9ea0-c0458b82500c.PNG)
-
-![page5](https://user-images.githubusercontent.com/107451256/188327806-02fe486b-202f-4e39-9ad4-bd424492c699.PNG)
-
-![page6](https://user-images.githubusercontent.com/107451256/188327814-e0a7f793-aa8e-4698-9c1a-c02068863072.PNG)
-
-![page7](https://user-images.githubusercontent.com/107451256/188327827-0d3f2542-e0bf-4a3b-aa28-3e626e79434d.PNG)
-
-![page8](https://user-images.githubusercontent.com/107451256/188327838-8d281ffd-10f1-4c02-8cc7-c96e15ff5dd1.PNG)
-
-**Group Page**
-
-![page9](https://user-images.githubusercontent.com/107451256/188329227-99b9450e-4f09-446d-b909-2fdccd361521.PNG)
-
-**Profile Page**
-
-![page10](https://user-images.githubusercontent.com/107451256/188327974-6afb5b7b-8add-43db-a102-b14d2c57dc97.PNG)
 
 
 
